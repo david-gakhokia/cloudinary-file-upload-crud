@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Product App</title>
+    <title>Cloudinary File Upload Product CRUD </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- ✅ Bootstrap 5 CDN -->

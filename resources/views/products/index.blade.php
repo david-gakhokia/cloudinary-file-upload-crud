@@ -8,7 +8,7 @@
     @endif
 
     <div class="mb-3">
-        <a href="{{ route('products.create') }}" class="btn btn-success">➕ Add New Product</a>
+        <a href="{{ route('products.create') }}" class="btn btn-success">➕ Add</a>
     </div>
 
     <div class="table-responsive shadow-sm rounded">
