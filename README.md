@@ -69,3 +69,9 @@ composer install
 cp .env.example .env
 php artisan key:generate
 php artisan migrate
+---
+# Enter your credentials
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+CLOUDINARY_URL=
