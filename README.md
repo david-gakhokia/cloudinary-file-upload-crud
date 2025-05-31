@@ -42,7 +42,7 @@ A simple yet powerful **Laravel 12 CRUD** application for managing products with
 ## 📸 Screenshot
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/david-gakhokia/cloudinary-file-upload-crud/main/public/screenshot-products.png" width="100%" alt="All Products Page Screenshot">
+    <img src="https://raw.githubusercontent.com/david-gakhokia/cloudinary-file-upload-crud/main/public/demo.png" width="100%" alt="All Products Page Screenshot">
 </p>
 
 
