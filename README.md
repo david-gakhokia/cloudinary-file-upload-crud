@@ -25,7 +25,6 @@
 
 A simple yet powerful **Laravel 12 CRUD** application for managing products with **Cloudinary-based image uploads** and **Bootstrap 5** styling.
 
-> 🔥 Designed as a developer-friendly starter project — ready to extend or use in your portfolio.
 
 ---
 
@@ -43,8 +42,9 @@ A simple yet powerful **Laravel 12 CRUD** application for managing products with
 ## 📸 Screenshot
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/david-gakhokia/cloudinary-file-upload-crud/main/public/demo-screenshot.png" width="600">
+    <img src="https://raw.githubusercontent.com/david-gakhokia/cloudinary-file-upload-crud/main/public/screenshot-products.png" width="100%" alt="All Products Page Screenshot">
 </p>
+
 
 ---
 
